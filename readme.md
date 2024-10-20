@@ -1,0 +1,1 @@
+Fractal Pattern Recognition: A tool for analyzing and recognizing fractal patterns in various datasets. Useful for researchers and data scientists!
